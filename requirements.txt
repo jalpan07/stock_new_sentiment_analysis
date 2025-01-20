@@ -1,0 +1,7 @@
+beautifulsoup4
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
